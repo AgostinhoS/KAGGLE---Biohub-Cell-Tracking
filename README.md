@@ -21,4 +21,4 @@ From looking at winning submissions, I really hope to:
 5. Implement more manipulations to training data for better generalization
 6. Consider anisotropic pooling in future similar cases
 
-#In the end, I scored a 0.72450! I am happy with my progress
+In the end, I scored a 0.72450! I am happy with my progress
